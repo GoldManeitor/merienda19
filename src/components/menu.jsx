@@ -47,9 +47,9 @@ function Menu(props) {
         }
       />
       <Comidas
-        nombre={"Pizza cookie"}
+        nombre={"Torta Marroc"}
         descrip={
-          "Atrevido. Gustoso. ¿La combinación perfecta? Olvidate, esa era el princi y el mangüel."
+          "Como la que hace tu vieja pero nada que ver. ¿Una bomba? Olvidate, bomba era lo de kike."
         }
       />
       <Comidas

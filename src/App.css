@@ -26,11 +26,11 @@ body {
   min-height: 100vh;
 }
 .titulo {
-  font-size: 60px;
+  font-size: 50px;
   font-family: 'Pacifico', cursive;
 }
 .nomcomida {
-  font-size: xx-large;
+  font-size: 25px;
   font-family: 'Quicksand', sans-serif;
 
 }
@@ -40,4 +40,7 @@ body {
 
 .contenedorMenu {
   padding: 5% 10%;
+}
+.numero {
+  font-size: 70px;
 }

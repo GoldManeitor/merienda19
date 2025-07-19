@@ -72,6 +72,31 @@ function Menu(props) {
         nombre={"Café de máquina de cheto"}
         descrip={"Aguanten los chetos."}
       />
+      <h1>Picadillo sin gluten</h1>
+      <Comidas
+        nombre={"Cookies"}
+        descrip={"Ay cuukisss"}
+      />
+      <Comidas
+        nombre={"Ojitos"}
+        descrip={"Y así salieron, un ojo de la cara."}
+      />
+      <Comidas
+        nombre={"Merengues"}
+        descrip={"Recomendacion de Bebote, no se, algo de cábala."}
+      />
+      <Comidas
+        nombre={"Alfajores"}
+        descrip={"Que nunca falten, no existe merienda sin esto."}
+      />
+      <Comidas
+        nombre={"Cuadraditos de choco"}
+        descrip={"Putaso."}
+      />
+      <Comidas
+        nombre={"Snacks"}
+        descrip={"Para mirarlo sexy al DJ comiendo papitas de tomate."}
+      />
     </div>
   );
 }
